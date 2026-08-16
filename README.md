@@ -40,10 +40,6 @@ This outputs a static site to the `dist/` folder.
 2. Go to [vercel.com](https://vercel.com), import the repo.
 3. Framework preset: **Vite**. Build command: `npm run build`. Output directory: `dist`.
 
-### Netlify
-1. Push this project to a GitHub repository.
-2. Go to [netlify.com](https://netlify.com), "Add new site" → import the repo.
-3. Build command: `npm run build`. Publish directory: `dist`.
 
 ## Project structure
 

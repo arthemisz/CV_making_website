@@ -12,7 +12,7 @@ const emptyState = { personal: emptyPersonal, education: [], experience: [], ski
 const uid = () => Math.random().toString(36).slice(2, 10);
 
 const exampleData = {
-  personal: { fullName: "Sara Mulugeta", email: "sara.mulugeta@student.edu", phone: "+251 92 345 6789", location: "Nazret, Ethiopia", linkedin: "linkedin.com/in/sara-mulugeta", github: "github.com/saramul" },
+  personal: { fullName: "Abebe abebe", email: "abebe.abebe@student.edu", phone: "+251 92 345 6789", location: "addis, Ethiopia", linkedin: "linkedin.com/in/abebe-abebe", github: "github.com/abebe" },
   education: [
     { id: "ed1", school: "Rift Valley University", degree: "B.Sc.", field: "Computer Science (in progress)", startDate: "2023-09", endDate: "" },
     { id: "ed2", school: "Nexus Front-End Boot Camp", degree: "Certificate", field: "Front-End Web Development", startDate: "2026-01", endDate: "2026-05" }

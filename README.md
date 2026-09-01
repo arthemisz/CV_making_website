@@ -36,12 +36,27 @@ This outputs a static site to the `dist/` folder.
 ## Deploying
 
 ### Vercel
+<<<<<<< HEAD
+1. Push this project to a GitHub repository.
+2. Go to [vercel.com](https://vercel.com), import the repo.
+3. Framework preset: **Vite**. Build command: `npm run build`. Output directory: `dist`.
+=======
 The project is deployed at 
+>>>>>>> 37e18cdab30a2ea901a19896f2b5d91132deda84
 
 
 ## Project structure
 
 ```
+<<<<<<< HEAD
+cv-application/
+├── index.html
+├── package.json
+├── vite.config.js
+└── src/
+    ├── main.jsx     # React entry point
+    └── App.jsx      # Main CV Builder component (all sections + preview)
+=======
 CV_making_website-main/
 ├── src/
 │   ├── components/
@@ -63,4 +78,5 @@ CV_making_website-main/
 │   └── main.jsx                    # React root rendering[cite: 1]  
 ├── README.md                       # Project documentation[cite: 1]
 └── vite.config.js                  # Vite bundler configuration[cite: 1]
+>>>>>>> 37e18cdab30a2ea901a19896f2b5d91132deda84
 ```

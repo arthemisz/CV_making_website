@@ -36,7 +36,7 @@ This outputs a static site to the `dist/` folder.
 ## Deploying
 
 ### Vercel
-The project is deployed at 
+The project is deployed at https://cv-making-website-three.vercel.app/
 
 
 ## Project structure
